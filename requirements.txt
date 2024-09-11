@@ -1,9 +1,8 @@
-streamlit
-opencv-python
-numpy
-dlib
-threading
-webrtcvad
-pyaudio
-pynput
-scipy
+streamlit==1.38.0
+opencv-python==4.10.0.84
+numpy==2.1.1
+dlib==19.24.6
+webrtcvad==2.0.10
+pyaudio==0.2.13
+pynput==1.7.6
+scipy==1.11.2
